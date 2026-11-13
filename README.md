@@ -130,7 +130,7 @@ account until you delete it at [aka.ms/MFASetup](https://aka.ms/MFASetup).
 To uninstall completely: remove the credentials, quit Ivanti AutoConnect, delete `Ivanti AutoConnect.app`, and
 remove it from System Settings → Privacy & Security → Accessibility.
 
-</details>
+<details>
 <summary>Extra info if you are really curious</summary>
 
 ## How it works
