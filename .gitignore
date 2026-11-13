@@ -1,0 +1,7 @@
+# Build outputs (menubar/build.sh)
+IvantiVPN.app/
+bin/
+
+# Never commit credential exports
+*.csv
+.DS_Store
