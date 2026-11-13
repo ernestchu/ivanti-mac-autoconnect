@@ -130,6 +130,9 @@ account until you delete it at [aka.ms/MFASetup](https://aka.ms/MFASetup).
 To uninstall completely: remove the credentials, quit Ivanti AutoConnect, delete `Ivanti AutoConnect.app`, and
 remove it from System Settings → Privacy & Security → Accessibility.
 
+</details>
+<summary>Extra info if you are really curious</summary>
+
 ## How it works
 
 Ivanti's sign-in runs inside its own embedded browser, so macOS Passwords can't autofill it.
@@ -213,6 +216,8 @@ menubar/make-icon.swift    draws the app icon (the menu bar shield) at build tim
 menubar/build.sh           builds and signs Ivanti AutoConnect.app
 setup-totp/                screenshots shown in the setup window
 ```
+
+</details>
 
 ## License
 
