@@ -254,6 +254,10 @@ menubar/main.swift     source of IvantiVPN.app (menu bar toggle)
 menubar/build.sh       builds and signs both
 ```
 
+## License
+
+[MIT](LICENSE)
+
 ## Disclaimer
 
 Not affiliated with or endorsed by Ivanti, Microsoft or Johns Hopkins University. It works by
