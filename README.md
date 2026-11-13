@@ -20,7 +20,7 @@ notice, account, password and 6-digit authenticator code. You can keep working w
 - Ivanti Secure Access Client, with your VPN connection already added
 - Xcode or the Command Line Tools, for `swiftc` (`xcode-select --install`)
 - A Microsoft account where you can add sign-in methods at
-  [aka.ms/MFASetup](https://aka.ms/MFASetup)
+  [aka.ms/MFASetup](https://aka.ms/MFASetup). The setup wizard will guide you through getting a **new dedicated** Time-Based One-Time Password (TOTP) for this app.
 
 ## Install (one-time build)
 
