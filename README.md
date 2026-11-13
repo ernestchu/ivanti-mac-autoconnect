@@ -1,5 +1,7 @@
 # ivanti-mac-autoconnect
 
+![](./readme-images/teaser.gif)
+
 One-click connect and disconnect for **Ivanti Secure Access** (formerly Pulse Secure) on macOS,
 from your menu bar. **Ivanti AutoConnect** fills in the whole sign-in for you in the background: usage
 notice, account, password and 6-digit authenticator code. You can keep working while it does.
