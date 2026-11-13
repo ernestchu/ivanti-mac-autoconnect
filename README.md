@@ -33,12 +33,17 @@ open ~/ivanti-autoconnect/"Ivanti AutoConnect.app"
 That's the only time you need the command line. The shield appears in your menu bar, and on
 first launch the setup window opens by itself.
 
+![](./readme-images/menubar-items.png)
+
 `build.sh` signs the app with your **Apple Development** certificate if you have one (any free
 Apple ID can create one in Xcode → Settings → Accounts). That way macOS remembers the app's
 permissions and keychain access when you rebuild. Without a certificate it falls back to ad-hoc
 signing, and macOS asks again after every rebuild.
 
 ## Set up credentials
+
+<details>
+<summary>Click on the icon in the menu bar and follow the instruction. For more info, click here</summary>
 
 The setup window walks you through everything. Only one set of credentials is kept: setting up
 again replaces it.
@@ -68,6 +73,8 @@ matching Microsoft page.
 > that asks for a code (for example "Authenticator app or hardware token – code"). Then the VPN
 > sign-in asks for a code rather than sending a push to your phone. Ivanti AutoConnect also tries to
 > switch from a push page to a code by itself, but that path is untested.
+
+</details>
 
 ### Permissions
 
